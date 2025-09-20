@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ### 2. Run the Application
 ```bash
-python systematic_review_tool.py
+python main.py
 ```
 
 ## Usage Guide
